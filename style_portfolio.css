@@ -1,0 +1,23 @@
+.Grafico{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+.link2{
+background-color:aquamarine;
+margin:1rem 2rem 1rem 21rem;
+padding:1rem;
+border-radius: 1rem;
+display: flex;
+justify-content: space-evenly;
+}
+.link2 a{
+   text-decoration: none;
+   color:black;
+   font-weight: 700;
+   font-size: 1.3rem;
+   font-family: sans-serif;
+}
+.linha{
+   border-left: 2px solid black;
+}
